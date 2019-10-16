@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AntiFraud/.idea/AntiFraud.iml" filepath="$PROJECT_DIR$/../AntiFraud/.idea/AntiFraud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ashares.iml" filepath="$PROJECT_DIR$/.idea/Ashares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ListenRobot/.idea/ListenRobot.iml" filepath="$PROJECT_DIR$/../ListenRobot/.idea/ListenRobot.iml" />
+    </modules>
+  </component>
+</project>

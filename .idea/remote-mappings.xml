@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@f73bcceb-9ed8-4dbd-ad88-82498d74e499" />
+        <remote-mappings server-id="python@sftp://twofirst@10.250.251.34:22/usr/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/../ListenRobot" remote-root="/home/twofirst/PycharmProjects/ListenRobot" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://twofirst@10.250.251.34:22/usr/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/twofirst/PycharmProjects/Ashares" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@ssh://twofirst@10.250.251.34:22/usr/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/twofirst/PycharmProjects/Ashares" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@ssh://twofirst@10.10.21.39:22/usr/bin/python3.6" />
+        <remote-mappings server-id="python@sftp://twofirst@192.168.5.34:22/usr/bin/python3.6" />
+      </list>
+    </list>
+  </component>
+</project>
